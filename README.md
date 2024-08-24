@@ -1,5 +1,5 @@
-# Schems
-Schematics for Mindustry's planet Serpulo.
+# Scheming in Mindustry
+Schematics for Mindustry.
 
 Most schemes pulled from YouTube video [MINDUSTRY Serpulo - List of Schematics for v7](https://youtu.be/6pNt8toa4Wo) by MindustryJP.
 
