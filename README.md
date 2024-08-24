@@ -5,4 +5,6 @@ Most schemes pulled from YouTube video [MINDUSTRY Serpulo - List of Schematics f
 
 5-kiln metaglass scheme is from GitHub repo [SchematicsPack](https://github.com/pixecoz/SchematicsPack) by pixecoz.
 
+I have done all the turret schemes and drill schemes.
+
 Feel free to use them. They're designed for use with schematics browsers.
