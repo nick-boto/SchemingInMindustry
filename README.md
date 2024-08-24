@@ -1,6 +1,8 @@
 # Schems
-Schematics for Mindustry.
+Schematics for Mindustry's planet Serpulo.
 
-Pulled from various other repositories (these will be credited via tags and description).
+Most schemes pulled from YouTube video [MINDUSTRY Serpulo - List of Schematics for v7](https://youtu.be/6pNt8toa4Wo) by MindustryJP.
 
-Feel free to use them.
+5-kiln metaglass scheme is from GitHub repo [SchematicsPack](https://github.com/pixecoz/SchematicsPack) by pixecoz.
+
+Feel free to use them. They're designed for use with schematics browsers.
